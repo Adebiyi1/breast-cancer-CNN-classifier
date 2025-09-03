@@ -13,7 +13,7 @@ To overcome this, I built a comprehensive training pipeline focused on generaliz
 
 ### The Outcome 📊
 
-Despite all these strategies, the results were a bit disappointing:
+Despite all these strategies, the results were not as expected:
 
 * Training Accuracy: The model performed fairly well on the data it had seen, reaching around **70%**.
 * Validation Accuracy: However, its performance on new, unseen data quickly plateaued at **60-62%**.
